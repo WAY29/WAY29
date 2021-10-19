@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Longlone(WAY29)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAY29&show_icons=true&theme=radical&hide_title=true&exclude_repo=blog.ieki.xyz,pics,blog-gitalk-comment)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WAY29&layout=compact&theme=radical&exclude_repo=blog.ieki.xyz,pics,blog-gitalk-comment)
+
 
 <!--
 **WAY29/WAY29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
